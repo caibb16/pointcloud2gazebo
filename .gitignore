@@ -2,11 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-<<<<<<< HEAD
 data/
-=======
-
->>>>>>> 7dbe689426009df4624edd6e5fe30c750fc84814
 # C extensions
 *.so
 
